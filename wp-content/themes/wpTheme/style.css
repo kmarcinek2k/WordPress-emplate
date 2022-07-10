@@ -11,3 +11,8 @@ License URI: google.com
 Text Domain: wpTheme
 
 */
+
+body {
+    margin: 0;
+    background-color: rgb(231, 201, 157);
+}
